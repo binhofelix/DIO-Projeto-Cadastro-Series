@@ -1,0 +1,34 @@
+[
+  {
+    "Genero": 3,
+    "Titulo": "Friends",
+    "Descricao": "6 amigos",
+    "Ano": 1994,
+    "Excluido": false,
+    "Id": 0
+  },
+  {
+    "Genero": 5,
+    "Titulo": "Game of Thrones",
+    "Descricao": "Gelo e fogo",
+    "Ano": 2011,
+    "Excluido": false,
+    "Id": 1
+  },
+  {
+    "Genero": 3,
+    "Titulo": "How I Met Your Mother",
+    "Descricao": "Como conheci sua m\u00E3e",
+    "Ano": 2005,
+    "Excluido": false,
+    "Id": 2
+  },
+  {
+    "Genero": 13,
+    "Titulo": "The Walking Dead",
+    "Descricao": "Zumbis",
+    "Ano": 2010,
+    "Excluido": false,
+    "Id": 3
+  }
+]
